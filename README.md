@@ -1,42 +1,41 @@
-Copyright (c) 2025 SNTS. All Rights Reserved.
+SNTS PROPRIETARY LICENSE
+© 2025 SNTS. All Rights Reserved.
+Description
 
-This repository and all its contents—including code, assets, documentation, media,
-and related files—are proprietary intellectual property of SNTS.
+This repository and all of its contents — including code, assets, documentation, and media — are proprietary property of SNTS.
+Unauthorized copying, modification, or redistribution is strictly prohibited.
 
-──────────────────────────────────────────────
-🚫 STRICTLY PROHIBITED ACTIONS
-──────────────────────────────────────────────
-You are NOT allowed to:
-• Copy, fork, clone, redistribute, re-upload, or mirror this repository or any part of it.
-• Modify, adapt, translate, or create derivative works based on this repository.
-• Include or embed any portion of this repository into other software, scripts, or packages.
-• Sell, license, sublicense, or make available this material on any platform (public or private).
-• Repost or republish the content on GitHub, Discord, Pastebin, Roblox, or any other site.
+Restrictions
 
-Any unauthorized reproduction or distribution of this material is strictly prohibited
-and may result in immediate DMCA action, permanent takedown requests, and legal proceedings.
+You may not:
 
-──────────────────────────────────────────────
-⚖️ LEGAL NOTICE
-──────────────────────────────────────────────
-This repository is protected by international copyright laws and digital rights
-management policies. Violations will be pursued under applicable laws, including
-the Digital Millennium Copyright Act (DMCA).
+Copy, fork, clone, or mirror this repository.
 
-By accessing, downloading, or using any part of this repository, you agree to these terms.
+Re-upload, redistribute, or republish any part of it.
 
-──────────────────────────────────────────────
-📩 CONTACT & PERMISSION
-──────────────────────────────────────────────
-For licensing, collaboration, or permission requests:
-→ Contact: kogoronegirito@gmail.com
-→ Owner: SNTS Development
-→ Year: 2025
-→ Jurisdiction: Philippines
+Modify or create derivative works based on its content.
 
-──────────────────────────────────────────────
-📜 SUMMARY
-──────────────────────────────────────────────
-• All Rights Reserved © 2025 SNTS  
-• No Copying — No Forking — No Reuploads — No Redistribution  
-• DMCA Protected — Violators will be reported and removed  
+Sell, license, or include any portion in other projects.
+
+Post or share this repository (or its content) on any other platform.
+
+Any unauthorized use will result in immediate DMCA takedown and possible legal action.
+
+Legal Notice
+
+This repository is protected under international copyright and the Digital Millennium Copyright Act (DMCA).
+By accessing or using this repository, you agree to these terms and acknowledge SNTS ownership.
+
+Contact
+
+For licensing or permission requests:
+Email: kogoronegirito@gmail.com
+
+Owner: SNTS Development
+Year: 2025
+Jurisdiction: Philippines
+
+Summary
+
+No Copying • No Forking • No Reuploads • No Redistribution
+DMCA Protected — Violators will be reported and removed
